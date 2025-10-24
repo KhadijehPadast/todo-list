@@ -1,2 +1,3 @@
 # todo-list
-a simple todo-list with python, save list in a json file
+A simple todo-list program without Gui with python for improve coding skills.
+save list ina a json file
